@@ -22,6 +22,14 @@ Two modes of operation are provided:
 
 ---
 
+## 📸 Results
+
+### Human Detection Output
+![Output 1](output1.jpg)
+
+### Pedestrian Counting Output
+![Output 2](output2.jpg)
+
 ## 🗂️ Project Structure
 
 ```plaintext
@@ -29,3 +37,4 @@ Two modes of operation are provided:
 ├── realtime.py        # Live pedestrian detection via webcam
 ├── yolov8n.pt         # YOLOv8n pre-trained weights (downloaded automatically)
 └── README.md          # Project documentation
+
